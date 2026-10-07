@@ -1,0 +1,34 @@
+# Product, business and people-facing tech careers
+
+## Product Manager (PM)
+Category: product. A PM decides what gets built and why. They talk to users, define the problem, prioritise a roadmap, write requirements, and work daily with engineers and designers to ship. Good for people who enjoy building products but do not want to code all day. Skills: user research, prioritisation, basic data analysis and SQL, clear writing, stakeholder communication, technical literacy (APIs, system tradeoffs), business sense. Entry: B.Tech or any degree plus a product portfolio; common routes are an Associate PM program, moving over from engineering, analytics or design, or an MBA. Progression: Associate PM, PM, Senior PM, Group PM, Director, VP Product, Chief Product Officer. Learning path: read Inspired and Cracking the PM Interview, write product teardowns, ship a side project, practise metrics and product-sense case questions. Good fit if you like users, strategy and influencing without authority. Less fit if you need hands-on craft output every day.
+
+## Associate Product Manager and breaking into product
+Category: product. Freshers rarely get a PM title directly. The realistic routes are: APM or rotational programs at larger companies, joining a startup in an operations, analyst or founder's-office role and moving into product, starting as a software engineer or analyst and shifting after 1 to 2 years, or an MBA with a product internship. Build proof: a shipped project with real users, a written product teardown, a clear metrics story. Employers look for evidence of judgement, not certificates.
+
+## Technical Program Manager (TPM)
+Category: product and delivery. A TPM drives complex cross-team engineering programs: scoping, dependencies, risks, timelines and communication. More technical than a project manager, less about user strategy than a PM. Skills: system design basics, planning, risk management, communication, tooling like Jira. Entry: usually after 2 to 4 years as an engineer or QA, though some companies hire early-career. Progression: TPM, Senior TPM, Principal TPM, Director of Programs. Good fit for organised people who like technology and coordination, and dislike writing code full time.
+
+## Business Analyst
+Category: business and tech bridge. A business analyst gathers requirements, maps processes, analyses data and translates between business stakeholders and technical teams. Skills: requirements writing, SQL, Excel, process modelling, communication, a BI tool like Power BI or Tableau. Entry: any degree; IT and commerce graduates are common; certifications like CBAP help later. Progression: Business Analyst, Senior BA, Product Owner or Product Manager, Business Architect or consultant. A strong stepping stone into product management for people who prefer less coding.
+
+## Product Designer and UX Designer
+Category: design. Designers research user needs, map flows, design interfaces and test prototypes. Skills: user research, wireframing and prototyping in Figma, visual design, interaction design, usability testing, collaboration with engineers. Entry: design degree or a strong portfolio; many come from engineering, fine arts or psychology. Progression: Designer, Senior Designer, Lead or Staff Designer, Head of Design. Learning path: Google UX certificate or similar, redesign a real app with a case study, build three portfolio projects showing process not just visuals. Fits creative people who care about how things feel to use.
+
+## Solutions Engineer and Sales Engineer
+Category: customer-facing technical. Solutions engineers demo products, answer technical questions, design integrations and help close deals alongside sales. Skills: broad technical knowledge, APIs, communication and presentation, problem solving, customer empathy. Entry: B.Tech with good communication; often after a support or engineering role. Progression: Solutions Engineer, Senior, Solutions Architect, Head of Solutions. Good fit for technical people who enjoy talking to people and want less heads-down coding. Pay often includes a variable component.
+
+## Customer Success and Technical Support Engineer
+Category: customer-facing technical. Support and success engineers help customers adopt and troubleshoot a product, escalate bugs and feed insights back to product teams. Skills: debugging, logs and SQL, empathy, writing, product knowledge. Entry: low barrier for fresh graduates, a common entry path into tech. Progression: Support Engineer, Senior, Customer Success Manager or Solutions Engineer, or move into product or engineering with deliberate upskilling.
+
+## Developer Advocate and Technical Writer
+Category: communication in tech. Developer advocates teach developers through talks, tutorials, sample apps and community work. Technical writers produce documentation, API references and guides. Skills: coding enough to build demos, strong writing and speaking, curiosity, community building. Entry: engineers who enjoy teaching, or writers who learn the technology. Progression: Advocate, Senior Advocate, Developer Relations Lead; writer to Senior Writer to Documentation Lead. Good fit if you like explaining ideas and prefer communication to heavy production coding.
+
+## Management Consultant (technology and strategy)
+Category: consulting. Consultants solve business problems for clients through analysis, structured thinking and presentations, in short project cycles. Skills: structured problem solving, Excel and slides, communication, quick learning, resilience to long hours. Entry: top campus placements or an MBA from a well-known school; engineers move in through tech consulting at large firms. Progression: Analyst, Consultant, Manager, Partner. Good fit for people who like variety and business questions; demanding lifestyle.
+
+## Startup Founder and Entrepreneur
+Category: entrepreneurship. Founders find a problem worth solving, build a product, get customers and raise money or reach profit. Skills: resilience, selling, product sense, hiring, financial literacy, learning fast. There is no required degree. A common path is to work 2 to 4 years at a startup to learn how companies are built, build side projects with real users, then start something. Honest tradeoff: high variance, low early income. Start small by validating one problem with a handful of paying users before leaving a stable job.
+
+## Product Operations and Growth
+Category: product. Product operations improves how product teams work: tooling, feedback loops, launch processes. Growth and product analytics focus on acquisition, activation and retention using experiments and data. Skills: SQL, analytics tools, A/B testing, spreadsheet modelling, communication. Entry: analyst or operations roles at startups. A natural bridge for analytical people toward product management.
